@@ -72,7 +72,7 @@ nav ul li a:hover {
     background-color: #e9edc9;
     padding: 5px 10px;
     border-radius: 10px;
-    transition: 0.5s;
+    transition: 0.6s;
 
 }
 
@@ -123,7 +123,7 @@ table{
 .navbars {
     position: fixed;
     left: -230px;
-    transition: all 3s ease;
+    transition: all 4s ease;
 }
 
 label #btn {
@@ -141,7 +141,7 @@ label #cancel {
     left: -150px;
     top: 18%;
     font-size: 25px;
-    transition: all 3s ease;
+    transition: all 4s ease;
 }
 
 #check:checked~.navbars {
@@ -292,7 +292,7 @@ label #btn{
             width: 45%;
             
             margin-left: 45%;
-            transition: all 3s ease;
+            transition: all 4s ease;
         }
 
     .searchbtn,
@@ -365,7 +365,7 @@ label #btn{
 
 section{
     margin: 20px 20px;
-    transition: all 3s ease;
+    transition: all 4s ease;
 }
     section div {
         margin-bottom: 10px;
@@ -385,7 +385,7 @@ section{
     #check:checked~section{
         margin-left: 200px;
         width: 50%;
-        transition: all 3s ease;
+        transition: all 4s ease;
     }
     .searchbtn,
     .search {
@@ -498,7 +498,7 @@ header img {
     #check:checked~section{
         margin-left: 180px;
         width: 50%;
-        transition: all 3s ease;
+        transition: all 4s ease;
     }
 
 }
@@ -603,7 +603,7 @@ header img {
     #check:checked~section{
         margin-left: 160px;
         width: 50%;
-        transition: all 3s ease;
+        transition: all 4s ease;
     }
 
 }
@@ -709,7 +709,7 @@ header img {
     #check:checked~section{
         margin-left: 120px;
         width: 50%;
-        transition: all 3s ease;
+        transition: all 4s ease;
     }
 
 
@@ -812,7 +812,7 @@ header img {
     }
     #check:checked~section{
         margin-left: 100px;
-        transition: all 3s ease;
+        transition: all 4s ease;
     }
 
 }
